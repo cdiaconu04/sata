@@ -1,4 +1,18 @@
-# To get started
+## 🚀 Getting Started
 
-Run npm install in both the backend and frontend folders
-Then run npm run dev in both folders to get the app started
+**Install dependencies** for both the backend and frontend:
+   ```bash
+   cd backend
+   npm install
+
+   cd ../frontend
+   npm install
+```
+**Run the app** 
+   ```bash
+   cd backend
+   npm run dev
+
+   cd ../frontend
+   npm run dev
+```
