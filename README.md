@@ -1,4 +1,4 @@
-## 🚀 Getting Started
+## Getting Started
 
 **Install dependencies** for both the backend and frontend:
    ```bash
@@ -16,3 +16,4 @@
    cd ../frontend
    npm run dev
 ```
+
